@@ -1,5 +1,3 @@
-# Danny-Dinh
-
 # Projektbeskrivning
 
 Detta projekt är en återskapning av en bild endast med hjälp av JavaScript. Syftet är att tillämpa och demonstrera användningen av DOM-manipulation, variabler, loopar, villkorssatser och arrays, som lärs ut i kursen.
